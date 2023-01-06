@@ -4,7 +4,7 @@
 }
 
 /* Banner-section-start */
-.banner-container{
+.banner-container {
     background-image: url("../images/banner.png");
     background-position: 0% 0%;
     background-repeat: no-repeat;
@@ -41,6 +41,7 @@
     line-height: 26px;
     text-align: right;
     margin-bottom: 32px;
+    color: #FFFFFF;
 }
 
 .banner-button {
@@ -126,7 +127,8 @@
     color: #444343;
 
 }
-.mark-lorem i{
+
+.mark-lorem i {
     color: green;
 }
 
@@ -139,12 +141,12 @@
 
 
 /* Plan-section-start */
-.plan-container{
+.plan-container {
     text-align: center;
     margin-bottom: 189px;
 }
 
-.Plan-title{
+.Plan-title {
     text-align: center;
     font-family: 'Work Sans';
     font-style: normal;
@@ -189,6 +191,7 @@
     font-size: 25px;
     line-height: 29px;
     text-align: center;
+    color: #737272;
 }
 
 /* Plan-section-End */
@@ -257,6 +260,7 @@
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
+    line-height: 26px;
     margin-bottom: 24px;
     color: #FFFFFF;
 }
@@ -272,6 +276,7 @@
 
 .footer-link a {
     color: #FFFFFF;
+    text-decoration: none;
 }
 
 .footer-right {
